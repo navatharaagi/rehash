@@ -1,0 +1,22 @@
+*   Merge branch 'tree'
+|\  
+| * added line about conflict in samplefile
+* |   Merge branch 'tree'
+|\ \  
+| |/  
+| * added samplefile in tree branch
+| * commiting samplefile.txt
+* | commiting samplefile.txt after fixing
+|/  
+* commiting chnges to file2.txt to use fast fwd merge
+* commiting changes to file2.txt in feature branch
+* commiting stash changes
+* Update file2.txt
+*   Merge branch 'master' of https://github.com/navatharaagi/rehash
+|\  
+| * update text.txt
+| * first commit
+* modified file2.txt
+* added file2.txt
+* removed file1.txt
+* added file1.txt
