@@ -1,1 +1,1 @@
-making changes in samplefile.txt in tree branch
+making changes in samplefile.txt in tree branch after fixing the conflict
